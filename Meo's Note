@@ -1,0 +1,45 @@
+Prediction of Enemy Course of Action (Direction)
+	- Supervised Learning using DNN
+
+
+Optimization of Resource Allocation (Asset Allocation)
+	- Operation Research / Dynamic Programming
+	- Reinforcement Learning
+	- Genetics Algorithm
+
+
+Strategic Decision
+	- find simulator/code for playing out strategic decisions using computational game theory (best if military related)
+
+	
+Environment (Enemy Deployment)
+	- openAI gym?
+        - unity3D (might be too complex) 
+        - look for others. can be non graphical  (any chessboard like one?)
+    
+        - for computational game theory testing (fill in own reward first) 
+             - reference: pluribus or libratus, counterfactual regret minimization
+
+
+May
+------
+wk3: determine environment + determine outcome of internship
+        - chessboard like environment
+        - environment for trading (for learning) 
+     look for example codes for computational game theory
+        - poker      
+wk4:
+
+June
+------
+wk1:
+wk2:
+wk3:
+wk4:
+
+July
+-------
+wk1:
+wk2:
+wk3:  report & presentation
+wk4:  report & presentation
