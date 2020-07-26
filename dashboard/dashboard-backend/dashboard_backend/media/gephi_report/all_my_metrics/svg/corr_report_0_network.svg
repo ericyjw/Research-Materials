@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+    "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<svg contentScriptType="text/ecmascript" width="793.48413"
+     xmlns:xlink="http://www.w3.org/1999/xlink" zoomAndPan="magnify"
+     contentStyleType="text/css"
+     viewBox="-418.000000 -1311.535889 793.484131 1734.162109"
+     height="1734.1621" preserveAspectRatio="xMidYMid meet"
+     xmlns="http://www.w3.org/2000/svg" version="1.1">
+    <g id="edges">
+        <path fill="none" stroke-width="0.2748772"
+              d="M -402.706573,-1281.535889 C -372.706573,-1311.535889 -372.706573,-1251.535889 -402.706573,-1281.535889"
+              class="id_Amazon_High" stroke-opacity="1.0" stroke="#4788ff"/>
+        <path fill="none" stroke-width="0.2748772"
+              d="M -109.458618,412.626251 C -99.458618,402.626251 -99.458618,422.626251 -109.458618,412.626251"
+              class="id_Msft_High" stroke-opacity="1.0" stroke="#ff3f29"/>
+        <path fill="none" stroke-width="0.1"
+              d="M -109.458618,412.626251 L 365.484131,207.171677"
+              class="id_Msft_High id_Apple_High" stroke-opacity="1.0"
+              stroke="#9d9f61"/>
+        <path fill="none" stroke-width="0.2748772"
+              d="M 365.484131,207.171677 C 375.484131,197.171677 375.484131,217.171677 365.484131,207.171677"
+              class="id_Apple_High" stroke-opacity="1.0" stroke="#3bff9a"/>
+    </g>
+    <g id="nodes">
+        <circle fill-opacity="1.0" fill="#4788ff" r="15.0" cx="-402.70657"
+                class="id_Amazon_High" cy="-1281.5359" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#ff3f29" r="5.0" cx="-109.45862"
+                class="id_Msft_High" cy="412.62625" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+        <circle fill-opacity="1.0" fill="#3bff9a" r="5.0" cx="365.48413"
+                class="id_Apple_High" cy="207.17168" stroke="#000000"
+                stroke-opacity="1.0" stroke-width="1.0"/>
+    </g>
+    <g id="node-labels">
+        <text font-size="36" x="-402.70657" y="-1273.1995" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Amazon_High">
+            Amazon High
+        </text>
+        <text font-size="12" x="-109.45862" y="415.44168" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Msft_High">
+            Msft High
+        </text>
+        <text font-size="12" x="365.48413" y="209.95049" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_Apple_High">
+            Apple High
+        </text>
+    </g>
+</svg>
